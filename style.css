@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; 
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main {
+  font-size: 1.6rem;
+  line-height: 2.5rem;
+  max-width: 117rem;
+  margin: 2rem 15rem;  
+}
+
+.main__header {
+  font-weight: 500;
+  color:#024900; 
+}
+.main__header--major {
+  line-height: 3.5rem;
+  font-size: 2.6rem;
+
+}
+
+.main__header--minor {
+  line-height: 3rem;
+  font-size: 2rem;
+}
+
+.main__sub-text {
+  color: rgb(196, 196, 196);
+}
+
+.main__section {
+  margin: 1.5rem 0;
+}
+
+.main__list {
+  padding-left: 5rem;
+}
+
+.main__link {
+  color:#40a345;
+  text-decoration: none;
+}
+
+.main__paragraph {
+  padding-bottom: 2rem; 
+}
+
