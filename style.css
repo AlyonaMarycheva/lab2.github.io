@@ -53,3 +53,14 @@ html {
   padding-bottom: 2rem; 
 }
 
+
+.main__doc {
+  width: 80%;
+  height: 70rem;
+}
+
+.doc__wrapper {
+  margin: 1.5rem 0;
+  display: flex;
+  justify-content: center;
+}
